@@ -1,0 +1,23 @@
+*{
+  margin:0;
+}
+
+.header{
+  background-color:brown;
+  height:50px;
+}
+.header a{
+  margin:20px;
+}
+.home{
+  background-color:skyblue;
+  height:200px;
+}
+.page{
+  background-color:dodgerblue;
+  height:200px;
+  color:white;
+}
+.footer{
+  background-color:olive;
+}
